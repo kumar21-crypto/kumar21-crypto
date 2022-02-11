@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumar21-crypto
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning android app devy
+- 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
